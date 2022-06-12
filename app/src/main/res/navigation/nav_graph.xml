@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/invoiceListActivity">
+
+    <activity
+        android:id="@+id/productListActivity"
+        android:name="com.hellohasan.sqlite_project.Features.ProductCRUD.ShowProductList.ProductListActivity"
+        android:label="activity_product_list"
+        tools:layout="@layout/activity_product_list" />
+    <activity
+        android:id="@+id/invoiceListActivity"
+        android:name="com.hellohasan.sqlite_project.Features.InvoiceCRUD.ShowInvoiceList.InvoiceListActivity"
+        android:label="activity_invoice_list"
+        tools:layout="@layout/activity_invoice_list" />
+</navigation>

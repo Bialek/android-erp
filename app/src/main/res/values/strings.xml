@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ERP</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_create_product">CreateProductActivity</string>
+    <string name="created_date_no">Created date</string>
+    <string name="address">Address</string>
+    <string name="amount">Amount</string>
+    <string name="phone">Phone</string>
+    <string name="cross_image_content_description">Delete invoice from SQLite database</string>
+    <string name="empty_list_message">List is Empty!</string>
+    <string name="invoice_name">Invoice Name</string>
+    <string name="update">Update</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="create_button">Create</string>
+    <string name="all_delete">All Delete</string>
+    <string name="edit_button_description">Edit Single invoice information</string>
+    <string name="product_name">Product Name</string>
+    <string name="product_code">Product Code</string>
+    <string name="product_credit">Product Credit</string>
+    <string name="product_availability">Product Availability</string>
+    <string name="product_price">Product Price</string>
+    <string name="add_new_product">Add New Product</string>
+    <string name="invoice_information">Invoice Information</string>
+    <string name="name">Name</string>
+    <string name="created_date_with_color">Created date: </string>
+    <string name="product_list">Product List</string>
+    <string name="invoice_list">Invoice List</string>
+    <string name="database_summary">Total Invoice: %1$d. Total Product: %2$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="update_button">Update</string>
+</resources>
